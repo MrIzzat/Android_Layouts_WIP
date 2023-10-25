@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Android Layouts</string>
+    <string name="list_view">List View:</string>
+    <string name="statically">Statically:</string>
+    <string name="dynamically">Dynamically:</string>
+    <string name="watermelon_hell_yeah">Watermelon! Hell Yeah!</string>
+    <string name="frame_desc">Notice How the text is on top of the ImageView. Normally, it would be under the ImageView.</string>
+    <string name="amazing_caption_down_here">Amazing Caption Down Here</string>
+    <array name="testArray">
+        <item>First element</item>
+        <item>Second Element</item>
+        <item>Third Element</item>
+    </array>
+    <array name="Views">
+        <item>List View</item>
+        <item>Frame Layout</item>
+        <item>Table Layout</item>
+        <item>Constraint Layout</item>
+        <item>Relative Layout</item>
+
+    </array>
+
+</resources>
